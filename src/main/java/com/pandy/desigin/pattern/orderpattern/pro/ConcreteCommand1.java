@@ -1,6 +1,6 @@
 package com.pandy.desigin.pattern.orderpattern.pro;
 
-import com.pandy.designpattern.orderpattern.pro.Command;
+
 
 public class ConcreteCommand1 extends Command {
 

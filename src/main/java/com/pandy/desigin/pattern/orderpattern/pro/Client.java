@@ -1,5 +1,7 @@
 package com.pandy.desigin.pattern.orderpattern.pro;
 
+import java.util.Random;
+
 public class Client {
 	public static void main(String[] args) {
 		Invoker invoker = new Invoker();
