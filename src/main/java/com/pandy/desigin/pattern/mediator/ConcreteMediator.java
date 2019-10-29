@@ -1,4 +1,4 @@
-package com.pandy.desigin.pattern.Mediator;
+package com.pandy.desigin.pattern.mediator;
 
 /**
  * @author Pandy
